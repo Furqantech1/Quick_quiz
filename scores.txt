@@ -1,0 +1,8 @@
+=== QuickQuiz Scores ===
+
+Name: Prathamesh B
+Category: Tech
+Score: 3/15
+Accuracy: 20%
+Date: 7/11/2025, 1:00:41 pm
+----------------------
